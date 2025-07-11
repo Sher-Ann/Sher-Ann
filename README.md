@@ -1,7 +1,7 @@
 ## Hi, im Sher-Ann
-Software engineer />
-graduated from eduvos />
-i create fun web applications />
+Software engineer <br/>
+graduated from eduvos <br/>
+i create fun web applications <br/>
 and videos about code and design on [instagram](https://www.instagram.com/ann.rehs?igsh=MTMxOXByc2I3cG85cA==)
 
 
