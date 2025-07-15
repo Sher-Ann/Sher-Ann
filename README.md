@@ -1,4 +1,4 @@
-## Hi, im Sher-Ann
+## Hi, im annrehs
 Software engineer <br/>
 graduated from eduvos <br/>
 i create fun web applications <br/>
